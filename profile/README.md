@@ -50,5 +50,5 @@ the [Docsy theme](https://www.docsy.dev/).
 
 ## We are proud to sponsor
 
-![EFF](2021-org-member-badge.png)
-![Global Encryption Coalition](GEC-graphics-01.png)
+![EFF](https://atsign.dev/landing_page/2021-org-member-badge.png)
+![Global Encryption Coalition](https://atsign.dev/landing_page/GEC-graphics-01.png)
