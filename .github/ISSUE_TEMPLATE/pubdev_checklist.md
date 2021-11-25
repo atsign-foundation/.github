@@ -1,3 +1,12 @@
+---
+name: Pub.dev checklist
+about: Checklist for packages being pushed to pub.dev
+title: ''
+labels: ''
+assignees: ''
+
+---
+
 ### Pub.dev content and (source)s - CHECKLIST OF TO DO's BELOW
 All the content shown on pub.dev and where it comes from. 
 Example: [Shelf](https://pub.dev/packages/shelf) (will point to one of our own once completed)
