@@ -43,6 +43,7 @@ Example: [Shelf](https://pub.dev/packages/shelf) (will point to one of our own o
 - [ ] Include an example (sample) app based on at_app skeleton
 - [ ] Add example.md to explain how to run the sample app
 - [ ] Ensure the readme.md follows the best practice template (WIP)
+- [ ] Make sure and add in terms that will help get this package to the top of the search results
 - [ ] Update changelog.md with clear description of the update
 - [ ] Bump the version as appropriate in pubspec.yaml for the package
 - [ ] Bump the version as appropriate in pubspec.yaml for the example
