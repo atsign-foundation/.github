@@ -1,8 +1,6 @@
 # The @ Foundation
 
-<img src="https://atsign.dev/assets/img/@dev.png?sanitize=true">
-
-### Now for a little internet optimism
+<img width=250px src="https://atsign.dev/assets/img/@platform_logo_grey.svg?sanitize=true">
 
 Welcome to The @ Foundation Github Organization, home to the open source
 repos for [The @ Platform](https://atsign.dev/docs/).
@@ -35,6 +33,15 @@ Source repo for at_contact, at_lookup and at_server_status packages
 * [at_protocol](https://github.com/atsign-foundation/at_protocol) -
 The open source repository for the @‎protocol specification and supporting
 documentation
+
+## Open source demos of The @ Platform
+
+* [mwc_demo](https://github.com/atsign-foundation/mwc_demo) -
+showcase for end to end encryption from an Internet of Things (Iot) device
+through to applications running on a phone, tablet or desktop.  
+* [sshnoports](https://github.com/atsign-foundation/sshnoports) - 
+get an SSH connection to a device without needing open ports or a static
+IP address.
 
 ## Developer resources
 
