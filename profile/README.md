@@ -1,19 +1,19 @@
-# The @ Foundation
+# The Atsign Foundation
 
 <img width=250px src="https://atsign.dev/assets/img/@platform_logo_grey.svg?sanitize=true">
 
-Welcome to The @ Foundation Github Organization, home to the open source
-repos for [The @ Platform](https://atsign.dev/docs/).
+Welcome to The Atsign Foundation Github Organization, home to the open source
+repos for [The atPlatform](https://atsign.dev/docs/).
 
 ## Our most important repos
 
 * [at_client_sdk](https://github.com/atsign-foundation/at_client_sdk) -
-provides the essential methods for building an app using the @protocol
+provides the essential methods for building an app using the atProtocol
 * [at_widgets](https://github.com/atsign-foundation/at_widgets) -
-Flutter widgets for using various aspects of the @‎platform
+Flutter widgets for using various aspects of the atPlatform
 * [at_demos](https://github.com/atsign-foundation/at_demos) -
 A collection of demo apps written to help you get a head start on your
-@‎platform journey
+atPlatform journey
 * [atsign.dev](https://github.com/atsign-foundation/atsign.dev) -
 Source for next version of [atsign.dev](https://atsign.dev) website
 * [sshnoports](https://github.com/atsign-foundation/sshnoports) - 
@@ -26,7 +26,7 @@ A command line utility for app developers
 There weren't enough pins for these, but we still love them:
 
 * [at_server](https://github.com/atsign-foundation/at_server) -
-The core software implementation of the @‎protocol
+The core software implementation of the atProtocol
 * [dess](https://github.com/atsign-foundation/dess) -
 Distributed Edge Secondary Server (dess). Run your own Secondary on
 a lightbulb to enterprise scale
@@ -35,10 +35,10 @@ Source repo for at_commons and at_utils packages
 * [at_libraries](https://github.com/atsign-foundation/at_libraries) -
 Source repo for at_contact, at_lookup and at_server_status packages
 * [at_protocol](https://github.com/atsign-foundation/at_protocol) -
-The open source repository for the @‎protocol specification and supporting
+The open source repository for the atProtocol specification and supporting
 documentation
 
-## Open source demos of The @ Platform
+## Open source demos of The atPlatform
 
 * [mwc_demo](https://github.com/atsign-foundation/mwc_demo) -
 showcase for end to end encryption from an Internet of Things (Iot) device
@@ -50,7 +50,7 @@ IP address.
 ## Developer resources
 
 [atsign.dev](https://atsign.dev) holds all of our Docs, Showcases, Community
-links and details of the @dev Program.
+links and details of the atDev Program.
 
 The site itself is open source, in the
 [atsign.dev repo](https://github.com/atsign-foundation/atsign.dev).
