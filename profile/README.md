@@ -1,6 +1,6 @@
 # The Atsign Foundation
 
-<img width=250px src="https://atsign.dev/assets/img/@platform_logo_grey.svg?sanitize=true">
+<img width=250px src="https://atsign.dev/assets/img/atPlatform_logo_gray.svg?sanitize=true">
 
 Welcome to The Atsign Foundation Github Organization, home to the open source
 repos for [The atPlatform](https://atsign.dev/docs/).
