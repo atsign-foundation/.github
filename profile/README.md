@@ -41,7 +41,7 @@ documentation
 ## Open source demos of The atPlatform
 
 * [mwc_demo](https://github.com/atsign-foundation/mwc_demo) -
-showcase for end to end encryption from an Internet of Things (Iot) device
+showcase for end to end encryption from an Internet of Things (IoT) device
 through to applications running on a phone, tablet or desktop.  
 * [sshnoports](https://github.com/atsign-foundation/sshnoports) - 
 get an SSH connection to a device without needing open ports or a static
