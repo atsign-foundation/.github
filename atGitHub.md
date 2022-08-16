@@ -159,3 +159,29 @@ using the [Dump Cards](https://github.com/atsign-company/dump_cards) scripts.
 
 The [labels](https://github.com/atsign-company/labels) repo is used to
 manage a consistent set of labels across org repos.
+
+## Changing things across the org
+
+There are often times when a change needs to be made to multiple repos, and
+these generally fall into two types: content changes and config changes.
+
+### Content changes
+
+When the same change is needed to content across multiple repos these can be
+accomplished with [git-xargs](https://github.com/gruntwork-io/git-xargs) and
+accompanying scripts.
+
+For examples see (private repo)
+[atsign-company/git-xargs_scripts](https://github.com/atsign-company/git-xargs_scripts)
+
+### Config changes
+
+We use the
+[Terraform GitHub Provider](https://registry.terraform.io/providers/integrations/github/latest/docs)
+to orchestrate changes across multiple repos. Different parts of the
+underlying API(s) are supported by different resources within the provider,
+so usage will be very context dependent.
+
+[This Gist](https://gist.github.com/cpswan/76f70da05b4f8929b84db4f51a76b672)
+provides an example of applying branch protection rules (in order to pass
+Allstar compliance checks).
