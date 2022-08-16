@@ -185,3 +185,19 @@ so usage will be very context dependent.
 [This Gist](https://gist.github.com/cpswan/76f70da05b4f8929b84db4f51a76b672)
 provides an example of applying branch protection rules (in order to pass
 Allstar compliance checks).
+
+## Your account
+
+### Profile
+
+A complete profile helps to show the human side of our organisation, and
+gives you a chance to highlight your interests and contributions.
+
+### Multi Factor Authentication (MFA)
+
+Please have MFA enabled, as it is safer for you, and this org.
+
+### Signing commits
+
+Signing commits with GPG keys (or SSH keys once feasible) is encouraged, as
+it provides a stronger chain of custody for code.
