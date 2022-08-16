@@ -32,12 +32,6 @@ Backups include metadata such as issues and come with daily snapshots up to
 30 days back in time. Restore to GitHub or clone directly from BackHub.
 GitHub repository backups have never been easier.
 
-### DigitalOcean
-
-Vestigial from when Digital Ocean was a more important part of our cloud
-infrastructure. (We still use it for DNS, but we don't use GitHub integration
-for that).
-
 ### Semantic PRs
 
 > A GitHub app to check that pull requests follow the Conventional Commits spec
@@ -72,6 +66,9 @@ level, though they can be overridden at the repo level.
 The primary template is called
 [archetype](https://github.com/atsign-foundation/archetype) and simply
 takes care of the checklist above.
+
+NB a public version of the archetype template can be found in the
+[atsign-company](https://github.com/atsign-company/archetype) org.
 
 ### archetype-pubdev
 
@@ -109,3 +106,56 @@ bramches together. At least Dependabot is smart enough to close the
 original PRs when the rollup is merged. Hopefully Dependabot will get the
 ability to handle rollups for itself.
 
+## GitHub Actions
+
+GitHub Actions are used extensively across org repos to undertake:
+
+### Continuous Integration
+
+Continuous Integration (CI) tests are in place to ensure that PRs are tested
+before being merged. These will usually consist of some combination os:
+
+* Unit tests - tests that can be run standalone (NB it's expected that unit
+tests will be run before committing code).
+* Functional tests - tests that require extra resources, such as an atPlatform
+Virtual Environment.
+* End to End tests - tests that require multiple additional resources, such
+as secondary servers running different versions of code to ensure that new
+code still works with existing production code.
+
+### Continuous Delivery
+
+Some repos are configured so that merges to trunk create a new release that
+is automatically deployed to the staging environment.
+
+Repos may also have automation such that release tags create releases that
+are deployed to canary and production environments.
+
+### Project automation
+
+Workflows will pick up new issues and place them in Triage on the
+[Dev Eng Sprint Planning Board](https://github.com/orgs/atsign-foundation/projects/8)
+
+## GitHub Projects
+
+We make use of a number of project boards to organise work.
+
+The process starts with an issue being raised, making use of the templates
+for bug, enhancement etc.
+
+Automation is used to place issues in Triage, where they should be prioritised
+and where possible assigned to somebody knowledgeable about the work involved
+to resolve the issue.
+
+Sufficiently high priority issues will be scheduled into two week sprints,
+other issues will be placed in the backlog.
+
+Where it's not obvious how much effort is expected we make use of
+[Planning Poker](https://www.planningpoker.com/) to get the wisdom of the
+team to determine an estimate. Issues are exported from GitHub Projects
+using the [Dump Cards](https://github.com/atsign-company/dump_cards) scripts.
+
+## Labels
+
+The [labels](https://github.com/atsign-company/labels) repo is used to
+manage a consistent set of labels across org repos.
