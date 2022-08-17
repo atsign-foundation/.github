@@ -113,7 +113,7 @@ GitHub Actions are used extensively across org repos to undertake:
 ### Continuous Integration
 
 Continuous Integration (CI) tests are in place to ensure that PRs are tested
-before being merged. These will usually consist of some combination os:
+before being merged. These will usually consist of some combination of:
 
 * Unit tests - tests that can be run standalone (NB it's expected that unit
 tests will be run before committing code).
