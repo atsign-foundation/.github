@@ -29,8 +29,8 @@ If applicable, add screenshots to help explain your problem.
  - Browser [e.g. stock browser, safari]
  - Version [e.g. 59]
 
-**Were you using an @‎application when the bug was found?**
-  - [e.g. @‎buzz, @‎tmosphere]
+**Were you using an atApplication when the bug was found?**
+  - [e.g. Buzz, Atmosphere]
 
 **Additional context**
 Add any other context about the problem here.
