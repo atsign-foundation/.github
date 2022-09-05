@@ -199,5 +199,8 @@ Please have MFA enabled, as it is safer for you, and this org.
 
 ### Signing commits
 
-Signing commits with GPG keys (or SSH keys once feasible) is encouraged, as
-it provides a stronger chain of custody for code.
+Signing commits with GPG or SSH keys is encouraged, as it provides a stronger
+chain of custody for code.
+
+See [Signing GitHub commits with SSH keys](https://blog.thestateofme.com/2022/09/05/signing-github-commits-with-ssh-keys/)
+for a guide to configuring your git client and GitHub.
