@@ -49,13 +49,13 @@ IP address.
 
 ## Developer resources
 
-[atsign.dev](https://atsign.dev) holds all of our Docs, Showcases, Community
-links and details of the atDev Program.
+[docs.atsign.com](https://docs.atsign.com/) holds all of our Docs, Showcases, Community
+links, and details of the atDev Program.
 
 The site itself is open source, in the
 [atsign.dev repo](https://github.com/atsign-foundation/atsign.dev).
 
-[atsign.dev](https://atsign.dev) is built on [Hugo](https://gohugo.io/)
+[docs.atsign.com](https://docs.atsign.com/) is built on [Hugo](https://gohugo.io/)
 using [at_docsy](https://github.com/atsign-foundation/at_docsy), our fork of
 the [Docsy theme](https://www.docsy.dev/).
 
