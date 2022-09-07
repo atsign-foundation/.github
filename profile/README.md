@@ -14,8 +14,8 @@ Flutter widgets for using various aspects of the atPlatform
 * [at_demos](https://github.com/atsign-foundation/at_demos) -
 A collection of demo apps written to help you get a head start on your
 atPlatform journey
-* [atsign.dev](https://github.com/atsign-foundation/atsign.dev) -
-Source for next version of [atsign.dev](https://atsign.dev) website
+* [docs.atsign.com](https://github.com/atsign-foundation/docs.atsign.com) -
+Source code for our documentation site ([docs.atsign.com](https://docs.atsign.dev))
 * [sshnoports](https://github.com/atsign-foundation/sshnoports) - 
 Ssh! No ports provides a way to ssh to a remote linux host/device
 without that device having any open ports (not even 22) on external
@@ -49,15 +49,13 @@ IP address.
 
 ## Developer resources
 
-[atsign.dev](https://atsign.dev) holds all of our Docs, Showcases, Community
-links and details of the atDev Program.
+[docs.atsign.com](https://docs.atsign.com) Contains our documentation.
 
 The site itself is open source, in the
-[atsign.dev repo](https://github.com/atsign-foundation/atsign.dev).
+[docs.atsign.com repo](https://github.com/atsign-foundation/docs.atsign.com).
 
-[atsign.dev](https://atsign.dev) is built on [Hugo](https://gohugo.io/)
-using [at_docsy](https://github.com/atsign-foundation/at_docsy), our fork of
-the [Docsy theme](https://www.docsy.dev/).
+[docs.atsign.com](https://docs.atsign.com) is built on [Hugo](https://gohugo.io/)
+using the [Doks](https://getdoks.org/) theme.
 
 ## We are proud to sponsor
 
