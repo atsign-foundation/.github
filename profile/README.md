@@ -15,7 +15,7 @@ Flutter widgets for using various aspects of the atPlatform
 A collection of demo apps written to help you get a head start on your
 atPlatform journey
 * [docs.atsign.com](https://github.com/atsign-foundation/docs.atsign.com) -
-Source code for our documentation site ([docs.atsign.com](https://docs.atsign.dev))
+Source code for our documentation site
 * [sshnoports](https://github.com/atsign-foundation/sshnoports) - 
 Ssh! No ports provides a way to ssh to a remote linux host/device
 without that device having any open ports (not even 22) on external
@@ -49,16 +49,12 @@ IP address.
 
 ## Developer resources
 
-[docs.atsign.com](https://docs.atsign.com) Contains our documentation.
-
-The site itself is open source, in the
-[docs.atsign.com repo](https://github.com/atsign-foundation/docs.atsign.com).
-
-[docs.atsign.com](https://docs.atsign.com) is built on [Hugo](https://gohugo.io/)
-using the [Doks](https://getdoks.org/) theme.
+* [docs.atsign.com](https://docs.atsign.com) is the home for all of our documentation.
+* Visit [pub.dev](https://pub.dev/publishers/atsign.org/packages) to find all of our Dart & Flutter packages.
+* Our [YouTube channel](https://www.youtube.com/c/AtsignCo) contains tutorials and demos for learning about the atPlatform.
+* Join our [discord community](https://discord.atsign.com/)
 
 ## We are proud to sponsor
 
 ![EFF](https://atsign.com/wp-content/uploads/2021/10/2021-org-member-badge.png.webp)
 ![Global Encryption Coalition](https://atsign.com/wp-content/uploads/2021/10/GEC-graphics-01-1.png.webp)
-
