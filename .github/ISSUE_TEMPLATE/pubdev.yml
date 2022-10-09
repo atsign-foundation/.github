@@ -14,7 +14,7 @@ body:
         - Platform support (generated based on project structure)
         - Tabbed navigation
           - Readme (note: initial content comes from readme.md) <github repo>
-          - Changelog <github repo> example: [firebase_auth](https://pub.dev/packages/  firebase_auth/changelog)
+          - Changelog <github repo> example: [firebase_auth](https://pub.dev/packages/firebase_auth/changelog)
           - Example (github repo)
           - Installing (generated)
           - Versions (generated) <pubspec.yaml>
