@@ -19,8 +19,8 @@ body:
           - Installing (generated)
           - Versions (generated) <pubspec.yaml>
           - Scores (generated)
-          - **Admin  (generated)
-          - **Activity log (generated)
+          - **Admin  (generated)**
+          - **Activity log (generated)**
 
         - Right column
           - Scores  (generated)
