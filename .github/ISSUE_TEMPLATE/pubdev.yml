@@ -1,0 +1,53 @@
+name: Pub.dev checklist
+description: Checklist for packages being pushed to pub.dev
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ### Pub.dev content and (source)s - CHECKLIST OF TO DO's BELOW
+        All the content shown on pub.dev and where it comes from. 
+        Example: [Shelf](https://pub.dev/packages/shelf) (will point to one of our own once completed)
+
+        - Package name, version <pubspec.yaml>
+        - Published date (generated)
+        - Platform support (generated based on project structure)
+        - Tabbed navigation
+          - Readme (note: initial content comes from readme.md) <github repo>
+          - Changelog <github repo> example: [firebase_auth](https://pub.dev/packages/firebase_auth/changelog)
+          - Example (github repo)
+          - Installing (generated)
+          - Versions (generated) <pubspec.yaml>
+          - Scores (generated)
+          - **Admin  (generated)**
+          - **Activity log (generated)**
+
+        - Right column
+          - Scores  (generated)
+          - Publisher  (generated)
+          - Metadata  <pubspec.yaml description>
+          - Homepage <pubspec.yaml>
+          - Repository (generated)
+          - View/report issues (generated)
+          - Documentation (generated)
+            - Documentation url <pubspec.yaml>
+            - API reference <generated>
+          - License (github repo)
+          - Dependencies (generated)
+          - More (generated)
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: "All items to be completed:"
+      options:
+        - label: Package should be implemented with rSDK
+        - label: Include an example (sample) app based on at_app skeleton
+        - label: Add example.md to explain how to run the sample app
+        - label: Ensure the readme.md follows the best practice template (WIP)
+        - label: Make sure and add in terms that will help get this package to the top of the search results
+        - label: Update changelog.md with clear description of the update
+        - label: Bump the version as appropriate in pubspec.yaml for the package
+        - label: Bump the version as appropriate in pubspec.yaml for the example
+        - label: Check that the description is accurate in pubspec.yaml for the package
+        - label: As appropriate, add a documentation link to atsign.dev for the package
