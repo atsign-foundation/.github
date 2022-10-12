@@ -53,10 +53,10 @@ our Poly-as-Mono repo.
   project/system.
 - `polyrepo` - When a repository contains only one package/library for a given
   project/system and several repositories are created for a project.
-- `poly-monorepo` - An indivdual monorepo that is part of a series of monorepos.
+- `poly-monorepo` - An individual monorepo that is part of a series of monorepos.
   Each poly monorepo contains a subset of the total packages.
 - `Mono-as-poly repo` - When a monorepo is used for development and testing, and
-  packages are distributed to indivudal polyrepos.
+  packages are distributed to individual polyrepos.
 - `Poly-as-mono repo` - When polyrepos (or in this case "poly-monorepos") are
   used for development, joined together into a monorepo to form a single testing
   environment, and distributed as individual packages.
