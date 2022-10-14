@@ -72,6 +72,7 @@ adopted the following structure for repositories:
 	- `...` and all other typical `.github` things.
 - `docs/` - Additional documentation that is scoped to the repository level.
 - `packages/` - The (public facing) Dart and Flutter packages in the repo.
+- `tests/` - The repo-level (i.e. non-package-specific) tests/testing suites in the repo.
 - `tools/` - All tools and automation (except the workflows in `.github`).
 - `melos.yaml` - Configuration for our monorepo management tool
 [melos](https://melos.invertase.dev/).
