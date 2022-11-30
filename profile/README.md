@@ -54,7 +54,7 @@ IP address.
 * Our [YouTube channel](https://www.youtube.com/c/AtsignCo) contains tutorials and demos for learning about the atPlatform.
 * Join our [discord community](https://discord.atsign.com/)
 * [How we use GitHub at Atsign](https://github.com/atsign-foundation/.github/blob/trunk/docs/atGitHub.md)
-* [at_mono - a synthetic monorepo across many of our key repos](https://github.com/atsign-foundation/.github/blob/trunk/at_mono.md)
+* [at_mono - a synthetic monorepo across many of our key repos](https://github.com/atsign-foundation/.github/blob/trunk/docs/at_mono.md)
 
 ## We are proud to sponsor
 
