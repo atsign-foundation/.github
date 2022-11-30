@@ -145,9 +145,12 @@ In order to keep the scores high we have:
 
 * Branch protection.
 * Continuous Integration (CI) tests wherever they make sense.
+* Minimised permissions for GitHub Tokens in Actions.
 * Dependencies pinned to SHAs in GitHub Actions, Dockerfiles and Python
 requirements.txt
-* Minimised permissions for GitHub Tokens in Actions.
+
+The [StepSecurity App](https://app.stepsecurity.io/)) can be used to find
+minimal token permissions and SHAs for Actions.
 
 ### Project automation
 
