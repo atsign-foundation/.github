@@ -131,6 +131,27 @@ is automatically deployed to the staging environment.
 Repos may also have automation such that release tags create releases that
 are deployed to canary and production environments.
 
+### OSSF Security Scorecard
+
+> Scorecards is an automated tool that assesses a number of important
+heuristics ("checks") associated with software security and assigns each
+check a score of 0-10. You can use these scores to understand specific areas
+to improve in order to strengthen the security posture of your project. You
+can also assess the risks that dependencies introduce, and make informed
+decisions about accepting these risks, evaluating alternative solutions,
+or working with the maintainers to make improvements.
+
+In order to keep the scores high we have:
+
+* Branch protection.
+* Continuous Integration (CI) tests wherever they make sense.
+* Minimised permissions for GitHub Tokens in Actions.
+* Dependencies pinned to SHAs in GitHub Actions, Dockerfiles and Python
+requirements.txt
+
+The [StepSecurity App](https://app.stepsecurity.io/)) can be used to find
+minimal token permissions and SHAs for Actions.
+
 ### Project automation
 
 Workflows will pick up new issues and place them in Triage on the

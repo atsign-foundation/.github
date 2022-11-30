@@ -14,6 +14,11 @@ decisions that have been applied to this GitHub organization
 - Read about our [Dart](https://dart.dev/) poly-as-mono repos setup
 [here](docs/at_mono.md).
 
+## Issues
+
+Issues in this repo are raised to cover cross organisation things that
+require changes in multiple repos.
+
 ## Profile
 
 As with all GitHub organizations, you can find our organization README
