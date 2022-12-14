@@ -38,6 +38,12 @@ Source repo for at_contact, at_lookup and at_server_status packages
 The open source repository for the atProtocol specification and supporting
 documentation
 
+## Software Development Kits (SDKs)
+
+* [Dart - at_client_sdk](https://github.com/atsign-foundation/at_client_sdk)
+* [Java - at_java](https://github.com/atsign-foundation/at_java)
+* [MicroPython - at_pico_w](https://github.com/atsign-foundation/at_pico_w)
+
 ## Open source demos of The atPlatform
 
 * [mwc_demo](https://github.com/atsign-foundation/mwc_demo) -
