@@ -1,8 +1,10 @@
 # OpenSSF Scorecards
 
-Following the example set by [Dart and Flutter](https://opensource.googleblog.com/2022/06/Dart-and-Flutter-enable-Allstar-and-Security-Scorecards.html)
-we've implemented [OpenSSF Scorecards](https://securityscorecards.dev/) on
-key repos:
+Following the example set by
+[Dart and Flutter](https://opensource.googleblog.com/2022/06/Dart-and-Flutter-enable-Allstar-and-Security-Scorecards.html)
+we've implemented
+[Open Source Security Foundation Scorecards](https://securityscorecards.dev/)
+on key repos:
 
 
 | Repo | OpenSSF scorecard |
