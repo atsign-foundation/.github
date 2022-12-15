@@ -62,6 +62,11 @@ IP address.
 * [How we use GitHub at Atsign](https://github.com/atsign-foundation/.github/blob/trunk/docs/atGitHub.md)
 * [at_mono - a synthetic monorepo across many of our key repos](https://github.com/atsign-foundation/.github/blob/trunk/docs/at_mono.md)
 
+## Supply chain security
+
+The repos featured on this profile each have
+[OpenSSF Scorecards](../docs/OpenSSF_scorecards.md).
+
 ## We are proud to sponsor
 
 ![EFF](https://atsign.com/wp-content/uploads/2021/10/2021-org-member-badge.png.webp)
