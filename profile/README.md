@@ -65,7 +65,7 @@ IP address.
 ## Supply chain security
 
 The repos featured on this profile each have
-[OpenSSF Scorecards](../docs/OpenSSF_scorecards.md).
+[OpenSSF Scorecards](https://github.com/atsign-foundation/.github/blob/trunk/docs/OpenSSF_scorecards.md).
 
 ## We are proud to sponsor
 
