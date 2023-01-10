@@ -43,6 +43,7 @@ documentation
 * [Dart - at_client_sdk](https://github.com/atsign-foundation/at_client_sdk)
 * [Java - at_java](https://github.com/atsign-foundation/at_java)
 * [MicroPython - at_pico_w](https://github.com/atsign-foundation/at_pico_w)
+* [C++ - at_esp32](https://github.com/atsign-foundation/at_esp32)
 
 ## Open source demos of The atPlatform
 
