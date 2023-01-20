@@ -149,7 +149,7 @@ In order to keep the scores high we have:
 * Dependencies pinned to SHAs in GitHub Actions, Dockerfiles and Python
 requirements.txt
 
-The [StepSecurity App](https://app.stepsecurity.io/)) can be used to find
+The [StepSecurity App](https://app.stepsecurity.io/) can be used to find
 minimal token permissions and SHAs for Actions.
 
 ### Project automation
