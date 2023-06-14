@@ -44,6 +44,9 @@ documentation
 * [Java - at_java](https://github.com/atsign-foundation/at_java)
 * [MicroPython - at_pico_w](https://github.com/atsign-foundation/at_pico_w)
 * [C++ - at_esp32](https://github.com/atsign-foundation/at_esp32)
+* [C - at_c](https://github.com/atsign-foundation/at_c)
+* [Rust](https://github.com/atsign-foundation/at_rust)
+* [Python](https://github.com/atsign-foundation/at_python)
 
 ## Open source demos of The atPlatform
 
