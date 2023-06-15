@@ -42,11 +42,11 @@ documentation
 
 * [Dart - at_client_sdk](https://github.com/atsign-foundation/at_client_sdk)
 * [Java - at_java](https://github.com/atsign-foundation/at_java)
-* [MicroPython - at_pico_w](https://github.com/atsign-foundation/at_pico_w)
-* [C++ - at_esp32](https://github.com/atsign-foundation/at_esp32)
-* [C - at_c](https://github.com/atsign-foundation/at_c)
-* [Rust - at_rust](https://github.com/atsign-foundation/at_rust)
-* [Python - at_python](https://github.com/atsign-foundation/at_python)
+* [MicroPython - at_pico_w (beta)](https://github.com/atsign-foundation/at_pico_w)
+* [C++ - at_esp32 (beta)](https://github.com/atsign-foundation/at_esp32)
+* [C - at_c (beta)](https://github.com/atsign-foundation/at_c)
+* [Rust - at_rust (beta)](https://github.com/atsign-foundation/at_rust)
+* [Python - at_python (beta)](https://github.com/atsign-foundation/at_python)
 
 ## Open source demos of The atPlatform
 
