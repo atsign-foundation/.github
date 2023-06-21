@@ -45,9 +45,16 @@ documentation
 
 ### SDKs in Beta
 
-The following Beta SDKs may not include all features of the atPlatform. Please use with caution.
+The following Beta SDKs may not include all features of the atPlatform.
+Please use with caution.
 
 * [MicroPython - at_pico_w](https://github.com/atsign-foundation/at_pico_w)
+
+### SDKs in Alpha
+
+These SDKs are still works in progress. They won't be feature complete,
+and there are likely to be bugs.
+
 * [C++ - at_esp32](https://github.com/atsign-foundation/at_esp32)
 * [C - at_c](https://github.com/atsign-foundation/at_c)
 * [Rust - at_rust](https://github.com/atsign-foundation/at_rust)
