@@ -85,5 +85,5 @@ The repos featured on this profile each have
 
 ## We are proud to sponsor
 
-![EFF](https://atsign.com/wp-content/uploads/2021/10/2021-org-member-badge.png.webp)
+![EFF](https://atsign.com/wp-content/uploads/2023/03/eff-2023-member-org.png.webp)
 ![Global Encryption Coalition](https://atsign.com/wp-content/uploads/2021/10/GEC-graphics-01-1.png.webp)
