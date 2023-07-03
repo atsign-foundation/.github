@@ -22,3 +22,12 @@ on key repos:
 | [docs.atsign.com](https://github.com/atsign-foundation/docs.atsign.com) | [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/atsign-foundation/docs.atsign.com/badge)](https://api.securityscorecards.dev/projects/github.com/atsign-foundation/docs.atsign.com) | 
 | [mwc_demo](https://github.com/atsign-foundation/mwc_demo) | [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/atsign-foundation/mwc_demo/badge)](https://api.securityscorecards.dev/projects/github.com/atsign-foundation/mwc_demo) | 
 | [sshnoports](https://github.com/atsign-foundation/sshnoports) | [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/atsign-foundation/sshnoports/badge)](https://api.securityscorecards.dev/projects/github.com/atsign-foundation/sshnoports) | 
+
+These repos are for alpha SDKs, and will take a little while to mature:
+
+| Repo | OpenSSF scorecard |
+|---|---|
+| [at_c](https://github.com/atsign-foundation/at_c) | [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/atsign-foundation/at_c/badge)](https://api.securityscorecards.dev/projects/github.com/atsign-foundation/at_c) |  
+| [at_esp32](https://github.com/atsign-foundation/at_esp32) | [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/atsign-foundation/at_esp32/badge)](https://api.securityscorecards.dev/projects/github.com/atsign-foundation/at_esp32) |  
+| [at_python](https://github.com/atsign-foundation/at_python) | [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/atsign-foundation/at_python/badge)](https://api.securityscorecards.dev/projects/github.com/atsign-foundation/at_python) |  
+| [at_rust](https://github.com/atsign-foundation/at_rust) | [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/atsign-foundation/at_rust/badge)](https://api.securityscorecards.dev/projects/github.com/atsign-foundation/at_rust) |  
