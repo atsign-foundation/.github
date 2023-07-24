@@ -1,0 +1,33 @@
+name: Pana PR Workflow
+
+on:
+  workflow_call:
+    inputs:
+      directory:
+        required: false
+        type: string
+        default: '.'
+      runs_on:
+        required: false
+        type: string
+        default: "ubuntu-latest"    
+  pull_request_target:
+    types: [opened, synchronize, reopened]
+
+jobs:
+  build:
+    runs-on: ${{inputs.runs_on}}
+    steps:
+      - name: Check pub score
+        id: check-pub-score
+        uses: VeryGoodOpenSource/very_good_workflows/.github/workflows/pana.yml@v1
+        with:
+          min_score: 130
+          working_directory: ${{inputs.directory}}
+      - name: Block PR Merge on Low Score
+        if: ${{github.event_name == 'pull_request_target' }}
+        run: |
+          if [[ "${{steps.check-pub-score.outcome}}" == "failure" ]]; then
+            echo "The Pana score is below the minium of 130 points. This PR cannot be merged.";
+            exit 1;
+          fi
