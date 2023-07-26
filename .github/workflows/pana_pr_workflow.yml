@@ -15,19 +15,19 @@ on:
     types: [opened, synchronize, reopened]
 
 jobs:
+  pana_score:
+    uses: VeryGoodOpenSource/very_good_workflows/.github/workflows/pana.yml@v1
+    with:
+      min_score: 130
+      working_directory: ${{inputs.directory}}
   build:
     runs-on: ${{inputs.runs_on}}
+    needs: pana_score
     steps:
-      - name: Check pub score
-        id: check-pub-score
-        uses: VeryGoodOpenSource/very_good_workflows/.github/workflows/pana.yml@v1
-        with:
-          min_score: 130
-          working_directory: ${{inputs.directory}}
       - name: Block PR Merge on Low Score
         if: ${{github.event_name == 'pull_request_target' }}
         run: |
-          if [[ "${{steps.check-pub-score.outcome}}" == "failure" ]]; then
+          if [[ "${{needs.pana_score}}" == "failure" ]]; then
             echo "The Pana score is below the minium of 130 points. This PR cannot be merged.";
             exit 0;
           fi
