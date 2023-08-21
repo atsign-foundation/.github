@@ -1,87 +1,52 @@
 # The Atsign Foundation
-
 <img width=250px src="https://atsign.dev/assets/img/atPlatform_logo_gray.svg?sanitize=true">
+
 
 Welcome to The Atsign Foundation Github Organization, home to the open source
 repos for [The atPlatform](https://docs.atsign.com/).
 
-## Our most important repos
+## Join the Community
+[![LinkedIn Page](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/company/atsigncompany/)
+[![Twitter Page](https://img.shields.io/badge/Twitter-white?style=for-the-badge&logo=twitter)](https://twitter.com/atsigncompany)
+[![Discord Community](https://img.shields.io/badge/Discord-white?style=for-the-badge&logo=discord)](https://discord.atsign.com)
 
-* [at_client_sdk](https://github.com/atsign-foundation/at_client_sdk) -
-provides the essential methods for building an app using the atProtocol
-* [at_widgets](https://github.com/atsign-foundation/at_widgets) -
-Flutter widgets for using various aspects of the atPlatform
-* [at_demos](https://github.com/atsign-foundation/at_demos) -
-A collection of demo apps written to help you get a head start on your
-atPlatform journey
-* [docs.atsign.com](https://github.com/atsign-foundation/docs.atsign.com) -
-Source code for our documentation site
-* [sshnoports](https://github.com/atsign-foundation/sshnoports) - 
-Ssh! No ports provides a way to ssh to a remote linux host/device
-without that device having any open ports (not even 22) on external
-interfaces.
-* [at_app](https://github.com/atsign-foundation/at_app) -
-A command line utility for app developers
+## Our Most Important Repos
 
-There weren't enough pins for these, but we still love them:
+|Products Built on the Tech||
+|-|-|
+| [![Atsign Foundation SSH No Ports-Light](https://github-readme-stats.vercel.app/api/pin?username=atsign-foundation&repo=sshnoports&hide_border=true&bg_color=00000000&theme=default#gh-light-mode-only)](https://github.com/atsign-foundation/sshnoports)[![Atsign Foundation SSH No Ports-Dark](https://github-readme-stats.vercel.app/api/pin?username=atsign-foundation&repo=sshnoports&hide_border=true&theme=dark&bg_color=00000000#gh-dark-mode-only)](https://github.com/atsign-foundation/sshnoports) | [![Atsign Foundation atmospherePro-Light](https://github-readme-stats.vercel.app/api/pin?username=atsign-foundation&repo=atmosphere_pro&hide_border=true&bg_color=00000000&theme=default#gh-light-mode-only)](https://github.com/atsign-foundation/atmosphere_pro)[![Atsign Foundation atmospherePro-Dark](https://github-readme-stats.vercel.app/api/pin?username=atsign-foundation&repo=atmosphere_pro&hide_border=true&theme=dark&bg_color=00000000#gh-dark-mode-only)](https://github.com/atsign-foundation/atmosphere_pro) |
 
-* [at_server](https://github.com/atsign-foundation/at_server) -
-The core software implementation of the atProtocol
-* [dess](https://github.com/atsign-foundation/dess) -
-Distributed Edge Secondary Server (dess). Run your own Secondary on
-a lightbulb to enterprise scale
-* [at_tools](https://github.com/atsign-foundation/at_tools) -
-Source repo for at_commons and at_utils packages
-* [at_libraries](https://github.com/atsign-foundation/at_libraries) -
-Source repo for at_contact, at_lookup and at_server_status packages
-* [at_protocol](https://github.com/atsign-foundation/at_protocol) -
-The open source repository for the atProtocol specification and supporting
-documentation
 
-## Software Development Kits (SDKs)
+|Core Tech & Libraries||
+|-|-|
+| [![Atsign Foundation atServer-Light](https://github-readme-stats.vercel.app/api/pin?username=atsign-foundation&repo=at_server&hide_border=true&bg_color=00000000&theme=default#gh-light-mode-only)](https://github.com/atsign-foundation/at_server)[![Atsign Foundation atServer-Dark](https://github-readme-stats.vercel.app/api/pin?username=atsign-foundation&repo=at_server&hide_border=true&theme=dark&bg_color=00000000#gh-dark-mode-only)](https://github.com/atsign-foundation/at_server) | [![Atsign Foundation atClient-Light](https://github-readme-stats.vercel.app/api/pin?username=atsign-foundation&repo=at_client_sdk&hide_border=true&bg_color=00000000&theme=default#gh-light-mode-only)](https://github.com/atsign-foundation/at_client_sdk)[![Atsign Foundation atClient-Dark](https://github-readme-stats.vercel.app/api/pin?username=atsign-foundation&repo=at_client_sdk&hide_border=true&theme=dark&bg_color=00000000#gh-dark-mode-only)](https://github.com/atsign-foundation/at_client_sdk) |
+| [![Atsign Foundation atLibraries-Light](https://github-readme-stats.vercel.app/api/pin?username=atsign-foundation&repo=at_libraries&hide_border=true&bg_color=00000000&theme=default#gh-light-mode-only)](https://github.com/atsign-foundation/at_libraries)[![Atsign Foundation atLibraries-Dark](https://github-readme-stats.vercel.app/api/pin?username=atsign-foundation&repo=at_libraries&hide_border=true&theme=dark&bg_color=00000000#gh-dark-mode-only)](https://github.com/atsign-foundation/at_libraries) | [![Atsign Foundation atWidgets-Light](https://github-readme-stats.vercel.app/api/pin?username=atsign-foundation&repo=at_widgets&hide_border=true&bg_color=00000000&theme=default#gh-light-mode-only)](https://github.com/atsign-foundation/at_widgets)[![Atsign Foundation atWidgets-Dark](https://github-readme-stats.vercel.app/api/pin?username=atsign-foundation&repo=at_widgets&hide_border=true&theme=dark&bg_color=00000000#gh-dark-mode-only)](https://github.com/atsign-foundation/at_widgets) |
 
-* [Dart - at_client_sdk](https://github.com/atsign-foundation/at_client_sdk)
-* [Java - at_java](https://github.com/atsign-foundation/at_java)
 
-### SDKs in Beta
+| Documentation & Tools ||
+|-|-|
+| [![Atsign Foundation atProtocol-Light](https://github-readme-stats.vercel.app/api/pin?username=atsign-foundation&repo=at_protocol&hide_border=true&bg_color=00000000&theme=default#gh-light-mode-only)](https://github.com/atsign-foundation/at_protocol)[![Atsign Foundation atProtocol-Dark](https://github-readme-stats.vercel.app/api/pin?username=atsign-foundation&repo=at_protocol&hide_border=true&theme=dark&bg_color=00000000#gh-dark-mode-only)](https://github.com/atsign-foundation/at_protocol) | [![Atsign Foundation Docs-Light](https://github-readme-stats.vercel.app/api/pin?username=atsign-foundation&repo=docs.atsign.com&hide_border=true&bg_color=00000000&theme=default#gh-light-mode-only)](https://github.com/atsign-foundation/docs.atsign.com)[![Atsign Foundation Docs-Dark](https://github-readme-stats.vercel.app/api/pin?username=atsign-foundation&repo=docs.atsign.com&hide_border=true&theme=dark&bg_color=00000000#gh-dark-mode-only)](https://github.com/atsign-foundation/docs.atsign.com) |
+| [![Atsign Foundation atDemos-Light](https://github-readme-stats.vercel.app/api/pin?username=atsign-foundation&repo=at_demos&hide_border=true&bg_color=00000000&theme=default#gh-light-mode-only)](https://github.com/atsign-foundation/at_demos)[![Atsign Foundation atDemos-Dark](https://github-readme-stats.vercel.app/api/pin?username=atsign-foundation&repo=at_demos&hide_border=true&theme=dark&bg_color=00000000#gh-dark-mode-only)](https://github.com/atsign-foundation/at_demos) | [![Atsign Foundation atTools-Light](https://github-readme-stats.vercel.app/api/pin?username=atsign-foundation&repo=at_tools&hide_border=true&bg_color=00000000&theme=default#gh-light-mode-only)](https://github.com/atsign-foundation/at_tools)[![Atsign Foundation atTools-Dark](https://github-readme-stats.vercel.app/api/pin?username=atsign-foundation&repo=at_tools&hide_border=true&theme=dark&bg_color=00000000#gh-dark-mode-only)](https://github.com/atsign-foundation/at_tools) |
+| [![Atsign Foundation atApp-Light](https://github-readme-stats.vercel.app/api/pin?username=atsign-foundation&repo=at_app&hide_border=true&bg_color=00000000&theme=default#gh-light-mode-only)](https://github.com/atsign-foundation/at_app)[![Atsign Foundation atApp-Dark](https://github-readme-stats.vercel.app/api/pin?username=atsign-foundation&repo=at_app&hide_border=true&theme=dark&bg_color=00000000#gh-dark-mode-only)](https://github.com/atsign-foundation/at_app) | [![Atsign Foundation dess-Light](https://github-readme-stats.vercel.app/api/pin?username=atsign-foundation&repo=dess&hide_border=true&bg_color=00000000&theme=default#gh-light-mode-only)](https://github.com/atsign-foundation/dess)[![Atsign Foundation dess-Dark](https://github-readme-stats.vercel.app/api/pin?username=atsign-foundation&repo=dess&hide_border=true&theme=dark&bg_color=00000000#gh-dark-mode-only)](https://github.com/atsign-foundation/dess) |
 
-The following Beta SDKs may not include all features of the atPlatform.
-Please use with caution.
+| Available SDKS |
+|-|
+|
+[![](https://img.shields.io/badge/Stable-Dart-Informational?style=flat&color=blue&logo=Dart)](https://github.com/atsign-foundation/at_client_sdk) [![](https://img.shields.io/badge/Stable-Java-Informational?style=flat&color=blue&logo=Oracle)](https://github.com/atsign-foundation/at_java)|
+| [![](https://img.shields.io/badge/Beta-MicroPython-Informational?style=flat&color=yellow&logo=micropython)](https://github.com/atsign-foundation/at_pico_w) |
+| [![](https://img.shields.io/badge/Alpha-C++-Informational?style=flat&color=red&logo=cplusplus)](https://github.com/atsign-foundation/at_esp32) [![](https://img.shields.io/badge/Alpha-C-Informational?style=flat&color=red&logo=c)](https://github.com/atsign-foundation/at_c) [![](https://img.shields.io/badge/Alpha-Rust-Informational?style=flat&color=red&logo=rust)](https://github.com/atsign-foundation/at_rust) [![](https://img.shields.io/badge/Alpha-Python-Informational?style=flat&color=red&logo=python)](https://github.com/atsign-foundation/at_python)|
 
-* [MicroPython - at_pico_w](https://github.com/atsign-foundation/at_pico_w)
 
-### SDKs in Alpha
+## Additional Resources
+[![YouTube Channel](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=Youtube)](https://www.youtube.com/@AtsignCo)
+[![Pub Dev Publisher](https://img.shields.io/badge/Pub.dev-blue?style=for-the-badge&logo=dart)](https://pub.dev/publishers/atsign.org/packages)
+[![Gitbook Docs](https://img.shields.io/badge/Docs-white?style=for-the-badge&logo=gitbook)](https://docs.atsign.com)  
 
-These SDKs are still works in progress. They won't be feature complete,
-and there are likely to be bugs.
+## How we use GitHub
+[![How we use GitHub Documentation](https://img.shields.io/badge/How_we_use_GitHub-black?style=for-the-badge&logo=github)](https://github.com/atsign-foundation/.github/blob/trunk/docs/atGitHub.md)  
+[![OpenSSF Scorecards](https://img.shields.io/badge/OpenSSF_ScoreCards-black?style=for-the-badge&logo=)](https://github.com/atsign-foundation/.github/blob/trunk/docs/OpenSSF_scorecards.md)  
+[![ Scorecards](https://img.shields.io/badge/at_mono:_a_synthetic_monorepo-black?style=for-the-badge&logo=)](https://github.com/atsign-foundation/.github/blob/trunk/docs/at_mono.md)
 
-* [C++ - at_esp32](https://github.com/atsign-foundation/at_esp32)
-* [C - at_c](https://github.com/atsign-foundation/at_c)
-* [Rust - at_rust](https://github.com/atsign-foundation/at_rust)
-* [Python - at_python](https://github.com/atsign-foundation/at_python)
-
-## Open source demos of The atPlatform
-
-* [mwc_demo](https://github.com/atsign-foundation/mwc_demo) -
-showcase for end to end encryption from an Internet of Things (IoT) device
-through to applications running on a phone, tablet or desktop.  
-* [sshnoports](https://github.com/atsign-foundation/sshnoports) - 
-get an SSH connection to a device without needing open ports or a static
-IP address.
-
-## Developer resources
-
-* [docs.atsign.com](https://docs.atsign.com) is the home for all of our documentation.
-* Visit [pub.dev](https://pub.dev/publishers/atsign.org/packages) to find all of our Dart & Flutter packages.
-* Our [YouTube channel](https://www.youtube.com/c/AtsignCo) contains tutorials and demos for learning about the atPlatform.
-* Join our [discord community](https://discord.atsign.com/)
-* [How we use GitHub at Atsign](https://github.com/atsign-foundation/.github/blob/trunk/docs/atGitHub.md)
-* [at_mono - a synthetic monorepo across many of our key repos](https://github.com/atsign-foundation/.github/blob/trunk/docs/at_mono.md)
-
-## Supply chain security
-
-The repos featured on this profile each have
-[OpenSSF Scorecards](https://github.com/atsign-foundation/.github/blob/trunk/docs/OpenSSF_scorecards.md).
 
 ## We are proud to sponsor
 
