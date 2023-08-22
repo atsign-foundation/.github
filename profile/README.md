@@ -58,7 +58,3 @@ repos for [The atPlatform](https://docs.atsign.com/).
 <img height=120px src="https://atsign.com/wp-content/uploads/2023/03/eff-2023-member-org.png.webp" alt="EFF Org Member">
 <img height=120px src="https://atsign.com/wp-content/uploads/2021/10/GEC-graphics-01-1.png.webp" alt="Global Encryption Coalition">
 <img height=120px src="https://atsign.com/wp-content/uploads/2023/08/LoRa-Alliance-horizontal600x300.png" alt="Lora Alliance">
-
-![EFF Org Member](https://atsign.com/wp-content/uploads/2023/03/eff-2023-member-org.png.webp)
-![Global Encryption Coalition](https://atsign.com/wp-content/uploads/2021/10/GEC-graphics-01-1.png.webp)
-![Lora Alliance](https://atsign.com/wp-content/uploads/2023/08/LoRa-Alliance-horizontal600x300.png)
