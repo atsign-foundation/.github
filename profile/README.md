@@ -5,13 +5,7 @@
 Welcome to The Atsign Foundation Github Organization, home to the open source
 repos for [The atPlatform](https://docs.atsign.com/).
 
-
-<style>
-   td, th {
-      border: none!important;
-   }
-</style>
-<table>
+<table style="border: 0px;">
    <thead>
       <tr>
          <th>Join the Community</th>
