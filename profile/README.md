@@ -9,7 +9,7 @@
 [![Gitbook Docs](https://img.shields.io/badge/Docs-white?style=for-the-badge&logo=gitbook)](https://docs.atsign.com)
 [![LinkedIn Page](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/company/atsigncompany/)
 [![Pub.dev](https://img.shields.io/badge/Pub.dev-blue?style=for-the-badge&logo=dart)](https://pub.dev/publishers/atsign.org/packages)
-[![X Page](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x)](https://twitter.com/atsigncompany)
+[![Twitter Page](https://img.shields.io/badge/Twitter-white?style=for-the-badge&logo=twitter)](https://twitter.com/atsigncompany)
 [![YouTube Channel](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=Youtube)](https://www.youtube.com/@AtsignCo)
 ---
 Welcome to The Atsign Foundation Github Organization, home to the open source
