@@ -7,7 +7,7 @@ repos for [The atPlatform](https://docs.atsign.com/).
 
 | Join the Community | Additional Resources |
 |-|-|
-|[![LinkedIn Page](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/company/atsigncompany/) [![Twitter Page](https://img.shields.io/badge/Twitter-white?style=for-the-badge&logo=twitter)](https://twitter.com/atsigncompany) [![Discord Community](https://img.shields.io/badge/Discord-white?style=for-the-badge&logo=discord)](https://discord.atsign.com)| [![YouTube Channel](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=Youtube)](https://www.youtube.com/@AtsignCo) [![Pub Dev Publisher](https://img.shields.io/badge/Pub.dev-blue?style=for-the-badge&logo=dart)](https://pub.dev/publishers/atsign.org/packages) [![Gitbook Docs](https://img.shields.io/badge/Docs-white?style=for-the-badge&logo=gitbook)](https://docs.atsign.com) |
+|[![LinkedIn Page](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/company/atsigncompany/) [![Twitter Page](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x)](https://twitter.com/atsigncompany) [![Discord Community](https://img.shields.io/badge/Discord-white?style=for-the-badge&logo=discord)](https://discord.atsign.com)| [![YouTube Channel](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=Youtube)](https://www.youtube.com/@AtsignCo) [![Pub Dev Publisher](https://img.shields.io/badge/Pub.dev-blue?style=for-the-badge&logo=dart)](https://pub.dev/publishers/atsign.org/packages) [![Gitbook Docs](https://img.shields.io/badge/Docs-white?style=for-the-badge&logo=gitbook)](https://docs.atsign.com) |
 
 ## Our Most Important Repos
 
