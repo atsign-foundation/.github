@@ -5,10 +5,9 @@
 Welcome to The Atsign Foundation Github Organization, home to the open source
 repos for [The atPlatform](https://docs.atsign.com/).
 
-## Join the Community
-[![LinkedIn Page](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/company/atsigncompany/)
-[![Twitter Page](https://img.shields.io/badge/Twitter-white?style=for-the-badge&logo=twitter)](https://twitter.com/atsigncompany)
-[![Discord Community](https://img.shields.io/badge/Discord-white?style=for-the-badge&logo=discord)](https://discord.atsign.com)
+| Join the Community | Additional Resources |
+|-|-|
+|[![LinkedIn Page](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/company/atsigncompany/) [![Twitter Page](https://img.shields.io/badge/Twitter-white?style=for-the-badge&logo=twitter)](https://twitter.com/atsigncompany) [![Discord Community](https://img.shields.io/badge/Discord-white?style=for-the-badge&logo=discord)](https://discord.atsign.com)| [![YouTube Channel](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=Youtube)](https://www.youtube.com/@AtsignCo) [![Pub Dev Publisher](https://img.shields.io/badge/Pub.dev-blue?style=for-the-badge&logo=dart)](https://pub.dev/publishers/atsign.org/packages) [![Gitbook Docs](https://img.shields.io/badge/Docs-white?style=for-the-badge&logo=gitbook)](https://docs.atsign.com) |
 
 ## Our Most Important Repos
 
@@ -36,18 +35,14 @@ repos for [The atPlatform](https://docs.atsign.com/).
 | [![](https://img.shields.io/badge/Alpha-C++-Informational?style=flat&color=red&logo=cplusplus)](https://github.com/atsign-foundation/at_esp32) [![](https://img.shields.io/badge/Alpha-C-Informational?style=flat&color=red&logo=c)](https://github.com/atsign-foundation/at_c) [![](https://img.shields.io/badge/Alpha-Rust-Informational?style=flat&color=red&logo=rust)](https://github.com/atsign-foundation/at_rust) [![](https://img.shields.io/badge/Alpha-Python-Informational?style=flat&color=red&logo=python)](https://github.com/atsign-foundation/at_python)|
 
 
-## Additional Resources
-[![YouTube Channel](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=Youtube)](https://www.youtube.com/@AtsignCo)
-[![Pub Dev Publisher](https://img.shields.io/badge/Pub.dev-blue?style=for-the-badge&logo=dart)](https://pub.dev/publishers/atsign.org/packages)
-[![Gitbook Docs](https://img.shields.io/badge/Docs-white?style=for-the-badge&logo=gitbook)](https://docs.atsign.com)  
-
 ## How we use GitHub
 [![How we use GitHub Documentation](https://img.shields.io/badge/How_we_use_GitHub-black?style=for-the-badge&logo=github)](https://github.com/atsign-foundation/.github/blob/trunk/docs/atGitHub.md)  
-[![OpenSSF Scorecards](https://img.shields.io/badge/OpenSSF_ScoreCards-black?style=for-the-badge&logo=)](https://github.com/atsign-foundation/.github/blob/trunk/docs/OpenSSF_scorecards.md)  
-[![ Scorecards](https://img.shields.io/badge/at_mono:_a_synthetic_monorepo-black?style=for-the-badge&logo=)](https://github.com/atsign-foundation/.github/blob/trunk/docs/at_mono.md)
+[![OpenSSF Scorecards](https://img.shields.io/badge/OpenSSF_ScoreCards-black?style=for-the-badge&logo=github)](https://github.com/atsign-foundation/.github/blob/trunk/docs/OpenSSF_scorecards.md)  
+[![at_mono: a synthetic monorepo](https://img.shields.io/badge/at_mono:_a_synthetic_monorepo-black?style=for-the-badge&logo=github)](https://github.com/atsign-foundation/.github/blob/trunk/docs/at_mono.md)
 
 
 ## We are proud to sponsor
 
 ![EFF](https://atsign.com/wp-content/uploads/2023/03/eff-2023-member-org.png.webp)
 ![Global Encryption Coalition](https://atsign.com/wp-content/uploads/2021/10/GEC-graphics-01-1.png.webp)
+![Lora Alliance](https://atsign.com/wp-content/uploads/2023/08/LoRa-Alliance-horizontal600x300.png)
