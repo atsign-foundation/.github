@@ -1,9 +1,3 @@
-<style>
-td, th {
-   border: none!important;
-}
-</style>
-
 # The Atsign Foundation
 <img width=250px src="https://atsign.dev/assets/img/atPlatform_logo_gray.svg?sanitize=true">
 
@@ -11,6 +5,12 @@ td, th {
 Welcome to The Atsign Foundation Github Organization, home to the open source
 repos for [The atPlatform](https://docs.atsign.com/).
 
+
+<style>
+   td, th {
+      border: none!important;
+   }
+</style>
 <table>
    <thead>
       <tr>
