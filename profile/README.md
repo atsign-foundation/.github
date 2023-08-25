@@ -13,7 +13,7 @@
 [![YouTube Channel](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=Youtube)](https://www.youtube.com/@AtsignCo)
 ---
 Welcome to The Atsign Foundation Github Organization, home to the open source
-repos for [The atPlatform](https://docs.atsign.com/).
+repos for [Atsign's technology](https://docs.atsign.com/).
 
 
 ## Our Most Important Repos
