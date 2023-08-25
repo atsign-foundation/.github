@@ -1,7 +1,7 @@
 <a href="https://atsign.com#gh-light-mode-only">
    <img width=250px src="https://atsign.com/wp-content/uploads/2022/05/atsign-logo-horizontal-color2022.svg#gh-light-mode-only" alt="The Atsign Foundation"></a>
 <a href="https://atsign.com#gh-dark-mode-only">
-   <img width=250px src="https://atsign.com/wp-content/uploads/2022/05/atsign-logo-horizontal-color2022.png#gh-dark-mode-only" alt="The Atsign Foundation"></a>
+   <img width=250px src="https://atsign.com/wp-content/uploads/2023/08/atsign-logo-horizontal-reverse2022-Color.svg#gh-dark-mode-only" alt="The Atsign Foundation"></a>
 
 [![Gitbook Docs](https://img.shields.io/badge/Docs-white?style=for-the-badge&logo=gitbook)](https://docs.atsign.com)
 [![Discord Community](https://img.shields.io/badge/Discord-white?style=for-the-badge&logo=discord)](https://discord.atsign.com)
