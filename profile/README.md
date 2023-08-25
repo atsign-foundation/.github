@@ -5,8 +5,8 @@
 <a href="https://atsign.com#gh-dark-mode-only">
    <img width=250px src="https://atsign.com/wp-content/uploads/2022/05/atsign-logo-horizontal-color2022.png#gh-dark-mode-only" alt="Atsign Logo"></a>
 
-[![Discord Community](https://img.shields.io/badge/Discord-white?style=for-the-badge&logo=discord)](https://discord.atsign.com)
 [![Gitbook Docs](https://img.shields.io/badge/Docs-white?style=for-the-badge&logo=gitbook)](https://docs.atsign.com)
+[![Discord Community](https://img.shields.io/badge/Discord-white?style=for-the-badge&logo=discord)](https://discord.atsign.com)
 [![LinkedIn Page](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/company/atsigncompany/)
 [![Pub.dev](https://img.shields.io/badge/Pub.dev-blue?style=for-the-badge&logo=dart)](https://pub.dev/publishers/atsign.org/packages)
 [![Twitter Page](https://img.shields.io/badge/Twitter-white?style=for-the-badge&logo=twitter)](https://twitter.com/atsigncompany)
@@ -38,13 +38,13 @@ repos for [The atPlatform](https://docs.atsign.com/).
 
 ## Available SDKS
 
-[![](https://img.shields.io/badge/Stable-Dart-Informational?style=flat&color=blue&logo=Dart)](https://github.com/atsign-foundation/at_client_sdk)
-[![](https://img.shields.io/badge/Stable-Java-Informational?style=flat&color=blue&logo=Oracle)](https://github.com/atsign-foundation/at_java)  
-[![](https://img.shields.io/badge/Beta-MicroPython-Informational?style=flat&color=yellow&logo=micropython)](https://github.com/atsign-foundation/at_pico_w)  
-[![](https://img.shields.io/badge/Alpha-C++-Informational?style=flat&color=red&logo=cplusplus)](https://github.com/atsign-foundation/at_esp32)
-[![](https://img.shields.io/badge/Alpha-C-Informational?style=flat&color=red&logo=c)](https://github.com/atsign-foundation/at_c)
-[![](https://img.shields.io/badge/Alpha-Rust-Informational?style=flat&color=red&logo=rust)](https://github.com/atsign-foundation/at_rust)
-[![](https://img.shields.io/badge/Alpha-Python-Informational?style=flat&color=red&logo=python)](https://github.com/atsign-foundation/at_python)
+[![](https://img.shields.io/badge/Dart-Stable-Informational?style=for-the-badge&color=blue&logo=Dart)](https://github.com/atsign-foundation/at_client_sdk)
+[![](https://img.shields.io/badge/Java-Stable-Informational?style=for-the-badge&color=blue&logo=Oracle)](https://github.com/atsign-foundation/at_java)  
+[![](https://img.shields.io/badge/MicroPython-Beta-Informational?style=for-the-badge&color=yellow&logo=micropython)](https://github.com/atsign-foundation/at_pico_w)  
+[![](https://img.shields.io/badge/C++-Alpha-Informational?style=for-the-badge&color=red&logo=cplusplus)](https://github.com/atsign-foundation/at_esp32)
+[![](https://img.shields.io/badge/C-Alpha-Informational?style=for-the-badge&color=red&logo=c)](https://github.com/atsign-foundation/at_c)
+[![](https://img.shields.io/badge/Rust-Alpha-Informational?style=for-the-badge&color=red&logo=rust)](https://github.com/atsign-foundation/at_rust)
+[![](https://img.shields.io/badge/Python-Alpha-Informational?style=for-the-badge&color=red&logo=python)](https://github.com/atsign-foundation/at_python)
 
 ## How we use GitHub
 
