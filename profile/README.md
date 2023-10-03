@@ -39,10 +39,12 @@ repos for [Atsign's technology](https://docs.atsign.com/).
 [![](https://img.shields.io/badge/Dart-Stable-Informational?style=for-the-badge&color=blue&logo=Dart)](https://github.com/atsign-foundation/at_client_sdk)
 [![](https://img.shields.io/badge/Java-Stable-Informational?style=for-the-badge&color=blue&logo=Oracle)](https://github.com/atsign-foundation/at_java)  
 [![](https://img.shields.io/badge/MicroPython-Beta-Informational?style=for-the-badge&color=yellow&logo=micropython)](https://github.com/atsign-foundation/at_pico_w)  
-[![](https://img.shields.io/badge/C++-Alpha-Informational?style=for-the-badge&color=red&logo=cplusplus)](https://github.com/atsign-foundation/at_esp32)
 [![](https://img.shields.io/badge/C-Alpha-Informational?style=for-the-badge&color=red&logo=c)](https://github.com/atsign-foundation/at_c)
-[![](https://img.shields.io/badge/Rust-Alpha-Informational?style=for-the-badge&color=red&logo=rust)](https://github.com/atsign-foundation/at_rust)
+[![](https://img.shields.io/badge/C++-Alpha-Informational?style=for-the-badge&color=red&logo=cplusplus)](https://github.com/atsign-foundation/at_esp32)
+[![](https://img.shields.io/badge/Go-Alpha-Informational?style=for-the-badge&color=red&logo=go)](https://github.com/atsign-foundation/at_go)
 [![](https://img.shields.io/badge/Python-Alpha-Informational?style=for-the-badge&color=red&logo=python)](https://github.com/atsign-foundation/at_python)
+[![](https://img.shields.io/badge/Rust-Alpha-Informational?style=for-the-badge&color=red&logo=rust)](https://github.com/atsign-foundation/at_rust)
+
 
 ## How we use GitHub
 
