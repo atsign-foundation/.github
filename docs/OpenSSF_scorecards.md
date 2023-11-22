@@ -20,7 +20,6 @@ on key repos:
 | [at_widgets](https://github.com/atsign-foundation/at_widgets) | [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/atsign-foundation/at_widgets/badge)](https://api.securityscorecards.dev/projects/github.com/atsign-foundation/at_widgets) | 
 | [dess](https://github.com/atsign-foundation/dess) | [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/atsign-foundation/dess/badge)](https://api.securityscorecards.dev/projects/github.com/atsign-foundation/dess) | 
 | [docs.atsign.com](https://github.com/atsign-foundation/docs.atsign.com) | [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/atsign-foundation/docs.atsign.com/badge)](https://api.securityscorecards.dev/projects/github.com/atsign-foundation/docs.atsign.com) | 
-| [mwc_demo](https://github.com/atsign-foundation/mwc_demo) | [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/atsign-foundation/mwc_demo/badge)](https://api.securityscorecards.dev/projects/github.com/atsign-foundation/mwc_demo) | 
 | [sshnoports](https://github.com/atsign-foundation/sshnoports) | [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/atsign-foundation/sshnoports/badge)](https://api.securityscorecards.dev/projects/github.com/atsign-foundation/sshnoports) | 
 
 These repos are for alpha SDKs, and will take a little while to mature:
