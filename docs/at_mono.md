@@ -49,42 +49,43 @@ our Poly-as-Mono repo.
 
 ## Clarifying Terms
 
-- `monorepo` - When a repository contains all the packages/libraries for a given
-  project/system.
-- `polyrepo` - When a repository contains only one package/library for a given
-  project/system and several repositories are created for a project.
-- `poly-monorepo` - An individual monorepo that is part of a series of monorepos.
-  Each poly monorepo contains a subset of the total packages.
-- `Mono-as-poly repo` - When a monorepo is used for development and testing, and
-  packages are distributed to individual polyrepos.
-- `Poly-as-mono repo` - When polyrepos (or in this case "poly-monorepos") are
-  used for development, joined together into a monorepo to form a single testing
-  environment, and distributed as individual packages.
+* `monorepo` - When a repository contains all the packages/libraries for a given
+project/system.
+* `polyrepo` - When a repository contains only one package/library for a given
+project/system and several repositories are created for a project.
+* `poly-monorepo` - An individual monorepo that is part of a series of monorepos.
+Each poly monorepo contains a subset of the total packages.
+* `Mono-as-poly repo` - When a monorepo is used for development and testing, and
+packages are distributed to individual polyrepos.
+* `Poly-as-mono repo` - When polyrepos (or in this case "poly-monorepos") are
+used for development, joined together into a monorepo to form a single testing
+environment, and distributed as individual packages.
 
 ## Dart Poly-monorepo Structure
 
 To make it easier to work with the various poly-monorepos in at_mono, we've
 adopted the following structure for repositories:
 
-- `.github/` - The GitHub configuration directory.
-	- `composite/` - Reusable "composite" workflows for GitHub Actions.
-	- `workflows/` - Typical GitHub Actions workflows.
-	- `...` and all other typical `.github` things.
-- `docs/` - Additional documentation that is scoped to the repository level.
-- `packages/` - The (public facing) Dart and Flutter packages in the repo.
-- `tests/` - The repo-level (i.e. non-package-specific) tests/testing suites in the repo.
-- `tools/` - All tools and automation (except the workflows in `.github`).
-- `melos.yaml` - Configuration for our monorepo management tool
+* `.github/` - The GitHub configuration directory.
+  * `composite/` - Reusable "composite" workflows for GitHub Actions.
+  * `workflows/` - Typical GitHub Actions workflows.
+  * `...` and all other typical `.github` things.
+* `docs/` - Additional documentation that is scoped to the repository level.
+* `packages/` - The (public facing) Dart and Flutter packages in the repo.
+* `tests/` - The repo-level (i.e. non-package-specific) tests/testing suites
+in the repo.
+* `tools/` - All tools and automation (except the workflows in `.github`).
+* `melos.yaml` - Configuration for our monorepo management tool
 [melos](https://melos.invertase.dev/).
-  - Allows us to define the locations of all packages in the repo so we can link
+  * Allows us to define the locations of all packages in the repo so we can link
   them locally (via pubspec.lock modification).
-  - Allows us to define a standard set of scripts for the repository.
-- Standard [atGithub](./atGitHub.md) documentation:
-  - `README.md`
-  - `LICENSE`
-  - `code_of_conduct.md`
-  - `CONTRIBUTING.md`
-  - `SECURITY.md`
+  * Allows us to define a standard set of scripts for the repository.
+* Standard [atGithub](./atGitHub.md) documentation:
+  * `README.md`
+  * `LICENSE`
+  * `code_of_conduct.md`
+  * `CONTRIBUTING.md`
+  * `SECURITY.md`
 
 ## The at_mono Repository
 

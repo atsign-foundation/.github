@@ -1,4 +1,4 @@
-<img width=250px src="https://atsign.dev/assets/img/atPlatform_logo_gray.svg?sanitize=true">
+<h1><img width=250px src="https://atsign.dev/assets/img/atPlatform_logo_gray.svg?sanitize=true"></h1>
 
 # .github
 
@@ -26,5 +26,5 @@ As with all GitHub organizations, you can find our organization README
 
 ## Workflows
 
-The [workflows](workflows/) folder contains reusable GitHub actions workflows that are used by other
-repositories in the organization.
+The [workflows](.github/workflows/) folder contains reusable GitHub actions
+workflows that are used by other repositories in the organization.
