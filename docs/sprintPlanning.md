@@ -14,12 +14,12 @@ If you are leading a sprint for the team, you will find here useful information 
 
 ### **Last update to our process:**
 In **January of 2023** we transformed our sprint planning with the following:
-A better review process for the backlog.
-A special view to help speed up planning poker.
-Architecture call items now use the “Discussion” type instead of a priority tag
-Removed the need for core and app kanban columns, instead using project and type
-We now use GitHub iterations for managing PRs
-SPs are loaded in real-time and totaled as they are added eliminating post-planning clean-up
+- A better review process for the backlog.
+- A special view to help speed up planning poker.
+- Architecture call items now use the “Discussion” type instead of a priority tag
+- Removed the need for core and app kanban columns, instead using project and type
+- We now use GitHub iterations for managing PRs
+- SPs are loaded in real-time and totaled as they are added eliminating post-planning clean-up
 
 Sprint planning enhancements were gathered and socialized across the team. The goal is to streamline how we sprint plan while providing deeper visibility and easier cross-functional teaming.
 
