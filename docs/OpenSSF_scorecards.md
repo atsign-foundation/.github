@@ -8,7 +8,6 @@ on key repos:
 
 | Repo | OpenSSF scorecard |
 |---|---|
-| [at_app](https://github.com/atsign-foundation/at_app) | [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/atsign-foundation/at_app/badge)](https://api.securityscorecards.dev/projects/github.com/atsign-foundation/at_app) |  
 | [at_c](https://github.com/atsign-foundation/at_c) | [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/atsign-foundation/at_c/badge)](https://api.securityscorecards.dev/projects/github.com/atsign-foundation/at_c) |  
 | [at_client_sdk](https://github.com/atsign-foundation/at_client_sdk) | [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/atsign-foundation/at_client_sdk/badge)](https://api.securityscorecards.dev/projects/github.com/atsign-foundation/at_client_sdk) |
 | [at_demos](https://github.com/atsign-foundation/at_demos) | [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/atsign-foundation/at_demos/badge)](https://api.securityscorecards.dev/projects/github.com/atsign-foundation/at_demos) |
@@ -16,6 +15,7 @@ on key repos:
 | [at_java](https://github.com/atsign-foundation/at_java) | [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/atsign-foundation/at_java/badge)](https://api.securityscorecards.dev/projects/github.com/atsign-foundation/at_java) |
 | [at_libraries](https://github.com/atsign-foundation/at_libraries) | [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/atsign-foundation/at_libraries/badge)](https://api.securityscorecards.dev/projects/github.com/atsign-foundation/at_libraries) |
 | [at_protocol](https://github.com/atsign-foundation/at_protocol) | [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/atsign-foundation/at_protocol/badge)](https://api.securityscorecards.dev/projects/github.com/atsign-foundation/at_protocol) |
+| [at_pico_w](https://github.com/atsign-foundation/at_pico_w) | [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/atsign-foundation/at_pico_w/badge)](https://api.securityscorecards.dev/projects/github.com/atsign-foundation/at_pico_w) |
 | [at_python](https://github.com/atsign-foundation/at_python) | [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/atsign-foundation/at_python/badge)](https://api.securityscorecards.dev/projects/github.com/atsign-foundation/at_python) |  
 | [at_rust](https://github.com/atsign-foundation/at_rust) | [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/atsign-foundation/at_rust/badge)](https://api.securityscorecards.dev/projects/github.com/atsign-foundation/at_rust) |  
 | [at_server](https://github.com/atsign-foundation/at_server) | [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/atsign-foundation/at_server/badge)](https://api.securityscorecards.dev/projects/github.com/atsign-foundation/at_server) |
