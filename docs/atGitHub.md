@@ -123,6 +123,25 @@ Virtual Environment.
 as secondary servers running different versions of code to ensure that new
 code still works with existing production code.
 
+#### Lints
+
+Automated tests also run
+[linting](https://en.wikipedia.org/wiki/Lint_(software)) tools against code.
+As with unit tests it's expected that lints will be run before code is
+committed, and the automated checks are just there as a safety net.
+
+* C/C++ is linted with [cppcheck](https://cppcheck.sourceforge.io/)
+* Dart makes use of [`dart analyze`](https://dart.dev/tools/dart-analyze)
+* Flutter code uses `flutter analyze`, usually along with `--no-fatal-infos`
+to ensure that INFO level findings don't break tests.
+* Markdown is linted with
+[pymarkdownlnt](https://pypi.org/project/pymarkdownlnt/). If you're working
+on Markdown docs then it's recommended to have pymarkdownlnt installed in
+a virtual environment.
+* Python (and MicroPython) use either
+[Flake8](https://flake8.pycqa.org/en/latest/) or
+[Ruff](https://docs.astral.sh/ruff/)
+
 ### Continuous Delivery
 
 Some repos are configured so that merges to trunk create a new release that
