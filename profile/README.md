@@ -3,7 +3,7 @@
 <a href="https://atsign.com#gh-dark-mode-only">
    <img width=250px src="https://atsign.com/wp-content/uploads/2023/08/atsign-logo-horizontal-reverse2022-Color.svg#gh-dark-mode-only" alt="The Atsign Foundation"></a></h1>
 
-[![Gitbook Docs](https://img.shields.io/badge/Docs-white?style=for-the-badge&logo=gitbook)](https://docs.atsign.com)
+[![Gitbook Docs](https://img.shields.io/badge/Docs-white?style=for-the-badge&logo=gitbook)](https://docs)
 [![Discord Community](https://img.shields.io/badge/Discord-white?style=for-the-badge&logo=discord)](https://discord.atsign.com)
 [![LinkedIn Page](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/company/atsigncompany/)
 [![Pub.dev](https://img.shields.io/badge/Pub.dev-blue?style=for-the-badge&logo=dart)](https://pub.dev/publishers/atsign.org/packages)
@@ -11,7 +11,7 @@
 [![YouTube Channel](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=Youtube)](https://www.youtube.com/@AtsignCo)
 
 Welcome to The Atsign Foundation Github Organization, home to the open source
-repos for [Atsign's technology](https://docs.atsign.com/).
+repos for [Atsign's technology](https://docs/).
 
 ## Our Most Important Repos
 
@@ -26,7 +26,7 @@ repos for [Atsign's technology](https://docs.atsign.com/).
 
 | Documentation & Tools ||
 |-|-|
-| [![Atsign Foundation atProtocol-Light](https://github-readme-stats.vercel.app/api/pin?username=atsign-foundation&repo=at_protocol&hide_border=true&bg_color=00000000&theme=default#gh-light-mode-only)](https://github.com/atsign-foundation/at_protocol#gh-light-mode-only)[![Atsign Foundation atProtocol-Dark](https://github-readme-stats.vercel.app/api/pin?username=atsign-foundation&repo=at_protocol&hide_border=true&theme=dark&bg_color=00000000#gh-dark-mode-only)](https://github.com/atsign-foundation/at_protocol#gh-dark-mode-only) | [![Atsign Foundation Docs-Light](https://github-readme-stats.vercel.app/api/pin?username=atsign-foundation&repo=docs.atsign.com&hide_border=true&bg_color=00000000&theme=default#gh-light-mode-only)](https://github.com/atsign-foundation/docs.atsign.com#gh-light-mode-only)[![Atsign Foundation Docs-Dark](https://github-readme-stats.vercel.app/api/pin?username=atsign-foundation&repo=docs.atsign.com&hide_border=true&theme=dark&bg_color=00000000#gh-dark-mode-only)](https://github.com/atsign-foundation/docs.atsign.com#gh-dark-mode-only) |
+| [![Atsign Foundation atProtocol-Light](https://github-readme-stats.vercel.app/api/pin?username=atsign-foundation&repo=at_protocol&hide_border=true&bg_color=00000000&theme=default#gh-light-mode-only)](https://github.com/atsign-foundation/at_protocol#gh-light-mode-only)[![Atsign Foundation atProtocol-Dark](https://github-readme-stats.vercel.app/api/pin?username=atsign-foundation&repo=at_protocol&hide_border=true&theme=dark&bg_color=00000000#gh-dark-mode-only)](https://github.com/atsign-foundation/at_protocol#gh-dark-mode-only) | [![Atsign Foundation Docs-Light](https://github-readme-stats.vercel.app/api/pin?username=atsign-foundation&repo=docs&hide_border=true&bg_color=00000000&theme=default#gh-light-mode-only)](https://github.com/atsign-foundation/docs#gh-light-mode-only)[![Atsign Foundation Docs-Dark](https://github-readme-stats.vercel.app/api/pin?username=atsign-foundation&repo=docs&hide_border=true&theme=dark&bg_color=00000000#gh-dark-mode-only)](https://github.com/atsign-foundation/docs#gh-dark-mode-only) |
 | [![Atsign Foundation atDemos-Light](https://github-readme-stats.vercel.app/api/pin?username=atsign-foundation&repo=at_demos&hide_border=true&bg_color=00000000&theme=default#gh-light-mode-only)](https://github.com/atsign-foundation/at_demos#gh-light-mode-only)[![Atsign Foundation atDemos-Dark](https://github-readme-stats.vercel.app/api/pin?username=atsign-foundation&repo=at_demos&hide_border=true&theme=dark&bg_color=00000000#gh-dark-mode-only)](https://github.com/atsign-foundation/at_demos#gh-dark-mode-only) | [![Atsign Foundation atTools-Light](https://github-readme-stats.vercel.app/api/pin?username=atsign-foundation&repo=at_tools&hide_border=true&bg_color=00000000&theme=default#gh-light-mode-only)](https://github.com/atsign-foundation/at_tools#gh-light-mode-only)[![Atsign Foundation atTools-Dark](https://github-readme-stats.vercel.app/api/pin?username=atsign-foundation&repo=at_tools&hide_border=true&theme=dark&bg_color=00000000#gh-dark-mode-only)](https://github.com/atsign-foundation/at_tools#gh-dark-mode-only) |
 | [![Atsign Foundation dess-Light](https://github-readme-stats.vercel.app/api/pin?username=atsign-foundation&repo=dess&hide_border=true&bg_color=00000000&theme=default#gh-light-mode-only)](https://github.com/atsign-foundation/dess#gh-light-mode-only)[![Atsign Foundation dess-Dark](https://github-readme-stats.vercel.app/api/pin?username=atsign-foundation&repo=dess&hide_border=true&theme=dark&bg_color=00000000#gh-dark-mode-only)](https://github.com/atsign-foundation/dess#gh-dark-mode-only) |  |
 
