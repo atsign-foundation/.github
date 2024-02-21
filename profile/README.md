@@ -3,7 +3,7 @@
 <a href="https://atsign.com#gh-dark-mode-only">
    <img width=250px src="https://atsign.com/wp-content/uploads/2023/08/atsign-logo-horizontal-reverse2022-Color.svg#gh-dark-mode-only" alt="The Atsign Foundation"></a></h1>
 
-[![Gitbook Docs](https://img.shields.io/badge/Docs-white?style=for-the-badge&logo=gitbook)](https://docs)
+[![Gitbook Docs](https://img.shields.io/badge/Docs-white?style=for-the-badge&logo=gitbook)](https://docs.atsign.com/)
 [![Discord Community](https://img.shields.io/badge/Discord-white?style=for-the-badge&logo=discord)](https://discord.atsign.com)
 [![LinkedIn Page](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/company/atsigncompany/)
 [![Pub.dev](https://img.shields.io/badge/Pub.dev-blue?style=for-the-badge&logo=dart)](https://pub.dev/publishers/atsign.org/packages)
@@ -11,7 +11,7 @@
 [![YouTube Channel](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=Youtube)](https://www.youtube.com/@AtsignCo)
 
 Welcome to The Atsign Foundation Github Organization, home to the open source
-repos for [Atsign's technology](https://docs/).
+repos for [Atsign's technology](https://docs.atsign.com/).
 
 ## Our Most Important Repos
 
