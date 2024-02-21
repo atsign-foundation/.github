@@ -143,6 +143,7 @@ provides details on setting things up.
 * Python (and MicroPython) use either
 [Flake8](https://flake8.pycqa.org/en/latest/) or
 [Ruff](https://docs.astral.sh/ruff/)
+* Rust uses [clippy](https://github.com/rust-lang/rust-clippy)
 
 ### Continuous Delivery
 
