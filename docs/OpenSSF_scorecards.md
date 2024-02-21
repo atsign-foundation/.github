@@ -6,6 +6,7 @@ we've implemented
 [Open Source Security Foundation Scorecards](https://securityscorecards.dev/)
 on key repos:
 
+<!-- pyml disable-num-lines 18 md013-->
 | Repo | OpenSSF scorecard |
 |---|---|
 | [at_c](https://github.com/atsign-foundation/at_c) | [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/atsign-foundation/at_c/badge)](https://api.securityscorecards.dev/projects/github.com/atsign-foundation/at_c) |  
