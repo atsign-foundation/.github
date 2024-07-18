@@ -10,6 +10,9 @@
 [![Pub.dev](https://img.shields.io/badge/Pub.dev-blue?style=for-the-badge&logo=dart)](https://pub.dev/publishers/atsign.org/packages)
 [![Twitter Page](https://img.shields.io/badge/Twitter-white?style=for-the-badge&logo=twitter)](https://twitter.com/atsigncompany)
 [![YouTube Channel](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=Youtube)](https://www.youtube.com/@AtsignCo)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/atsigntech)
+[![Tik Tok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@atsigntech)
+
 
 Welcome to The Atsign Foundation Github Organization, home to the open source
 repos for [Atsign's technology](https://docs.atsign.com/).
