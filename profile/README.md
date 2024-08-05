@@ -57,11 +57,13 @@ repos for [Atsign's technology](https://docs.atsign.com/).
 
 ## We are proud to sponsor
 
-<!-- pyml disable-num-lines 6 md013,md033-->
-<img height=120px src="https://atsign.com/wp-content/uploads/2024/07/2024_member_org_badge.png" alt="EFF Org Member">
-<img height=120px src="https://atsign.com/wp-content/uploads/2022/10/GEC-graphics-01.png" alt="Global Encryption Coalition">
-<img height=120px src="https://atsign.com/wp-content/uploads/2022/10/IoTSF-Corporate-Membership-Badge.png" alt="IoT Security Foundation">
-<img height=120px src="https://atsign.com/wp-content/uploads/2023/02/ioXt_logo2020_July-1.png" alt="ioXt">
-<img height=120px src="https://atsign.com/wp-content/uploads/2023/08/Alliance_vert_member_CMYK_Color_300dpi.png" alt="Lora Alliance">
-<img height=120px src="https://atsign.com/wp-content/uploads/2023/10/wisunalliance.png" alt="WiSun Alliance">
 
+<div>
+   <!-- pyml disable-num-lines 6 md013,md033-->
+   <img height=120px src="https://atsign.com/wp-content/uploads/2024/07/2024_member_org_badge.png" alt="EFF Org Member">
+   <img height=120px src="https://atsign.com/wp-content/uploads/2022/10/GEC-graphics-01.png" alt="Global Encryption Coalition">
+   <img height=120px src="https://atsign.com/wp-content/uploads/2022/10/IoTSF-Corporate-Membership-Badge.png" alt="IoT Security Foundation">
+   <img height=120px src="https://atsign.com/wp-content/uploads/2023/02/ioXt_logo2020_July-1.png" alt="ioXt">
+   <img height=120px src="https://atsign.com/wp-content/uploads/2023/08/Alliance_vert_member_CMYK_Color_300dpi.png" alt="Lora Alliance">
+   <img height=120px src="https://atsign.com/wp-content/uploads/2023/10/wisunalliance.png" alt="WiSun Alliance">
+</div>
