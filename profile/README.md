@@ -63,7 +63,7 @@ repos for [Atsign's technology](https://docs.atsign.com/).
 <!-- pyml disable-num-lines 12 md012,md013,md033-->
 
 <div>
-   <img height=120px src="https://atsign.com/wp-content/uploads/2024/07/2024_member_org_badge.png" alt="EFF Org Member">
+   <img height=120px src="https://atsign.com/wp-content/uploads/2025/01/2025-OrgMember.png.webp" alt="EFF Org Member">
    <img height=120px src="https://atsign.com/wp-content/uploads/2022/10/GEC-graphics-01.png" alt="Global Encryption Coalition">
    <img height=120px src="https://atsign.com/wp-content/uploads/2022/10/IoTSF-Corporate-Membership-Badge.png" alt="IoT Security Foundation">
    <img height=120px src="https://atsign.com/wp-content/uploads/2023/02/ioXt_logo2020_July-1.png" alt="ioXt">
