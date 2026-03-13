@@ -198,6 +198,12 @@ Where it's not obvious how much effort is expected we make use of
 team to determine an estimate. Issues are exported from GitHub Projects
 using the [Dump Cards](https://github.com/atsign-company/dump_cards) scripts.
 
+### Issues will be left open
+
+We do not use a bot to auto close issues after a given time. If they're not
+scheduled into a sprint then they will simply stay open. Time isn't
+allocated for grooming old issues.
+
 ## Labels
 
 The [labels](https://github.com/atsign-company/labels) repo is used to
