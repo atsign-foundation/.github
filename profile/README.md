@@ -37,7 +37,6 @@ repos for [Atsign's technology](https://docs.atsign.com/).
 ## Available SDKS
 
 <!-- pyml disable-num-lines 10 md011,md013-->
-
 [![Dart](https://img.shields.io/badge/Dart-Stable-Informational?style=for-the-badge&color=green&logo=Dart)](https://github.com/atsign-foundation/at_client_sdk)
 [![Java](https://img.shields.io/badge/Java-Stable-Informational?style=for-the-badge&color=green&logo=Oracle)](https://github.com/atsign-foundation/at_java)  
 [![C](https://img.shields.io/badge/C-Beta-Informational?style=for-the-badge&color=yellow&logo=c)](https://github.com/atsign-foundation/at_c)
@@ -50,7 +49,6 @@ repos for [Atsign's technology](https://docs.atsign.com/).
 ## How we use GitHub
 
 <!-- pyml disable-num-lines 4 md011,md013-->
-
 [![How we use GitHub Documentation](https://img.shields.io/badge/Overview-black?style=for-the-badge&logo=github)](https://github.com/atsign-foundation/.github/blob/trunk/docs/atGitHub.md)  
 [![OpenSSF Scorecards](https://img.shields.io/badge/OpenSSF_ScoreCards-black?style=for-the-badge&logo=github)](https://github.com/atsign-foundation/.github/blob/trunk/docs/OpenSSF_scorecards.md)  
 [![at_mono: a synthetic monorepo](https://img.shields.io/badge/at_mono:_a_synthetic_monorepo-black?style=for-the-badge&logo=github)](https://github.com/atsign-foundation/.github/blob/trunk/docs/at_mono.md)
@@ -58,7 +56,6 @@ repos for [Atsign's technology](https://docs.atsign.com/).
 ## We are proud to sponsor
 
 <!-- pyml disable-num-lines 12 md012,md013,md033-->
-
 <div>
    <img height=120px src="https://atsign.com/wp-content/uploads/2025/01/2025-OrgMember.png.webp" alt="EFF Org Member">
    <img height=120px src="https://atsign.com/wp-content/uploads/2022/10/GEC-graphics-01.png" alt="Global Encryption Coalition">
