@@ -7,7 +7,6 @@ we've implemented
 on key repos:
 
 <!-- pyml disable-num-lines 19 md013-->
-
 | Repo | OpenSSF scorecard | Chart |
 |---|---|---|
 | [at_c](https://github.com/atsign-foundation/at_c) | [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/atsign-foundation/at_c/badge)](https://securityscorecards.dev/viewer/?uri=github.com/atsign-foundation/at_c&sort_by=check-score&sort_direction=desc) | [📊](https://chris.swanz.net/front-end-miniprojects/security-api/?repo=github.com/atsign-foundation/at_c) |
