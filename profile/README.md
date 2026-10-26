@@ -57,11 +57,11 @@ repos for [Atsign's technology](https://docs.atsign.com/).
 
 <!-- pyml disable-num-lines 12 md012,md013,md033-->
 <div>
-   <img height=120px src="https://atsign.com/wp-content/uploads/2025/01/2025-OrgMember.png.webp" alt="EFF Org Member">
-   <img height=120px src="https://atsign.com/wp-content/uploads/2022/10/GEC-graphics-01.png" alt="Global Encryption Coalition">
-   <img height=120px src="https://atsign.com/wp-content/uploads/2022/10/IoTSF-Corporate-Membership-Badge.png" alt="IoT Security Foundation">
-   <img height=120px src="https://atsign.com/wp-content/uploads/2023/02/ioXt_logo2020_July-1.png" alt="ioXt">
-   <img height=80px src="https://atsign.com/wp-content/uploads/2024/10/ieee-logo.png" alt="Institute of Electrical and Electronics Engineers">
-   <img height=80px src="https://atsign.com/wp-content/uploads/2024/09/KNXMemberCMYK.jpg" alt="KNX Member">
-   <img height=80px src="https://atsign.com/wp-content/uploads/2024/09/logo.svg" alt="ONUG">
+   <img height="120" src="https://cdn.prod.website-files.com/68c3275ecef129c590f9e69f/6adf74655c22e22efb31522d_2025-OrgMember.png" alt="EFF Org Member">
+   <img height="120" src="https://cdn.prod.website-files.com/68c3275ecef129c590f9e69f/6adf74651099ab13c87c744b_GEC-graphics-01.png" alt="Global Encryption Coalition">
+   <img height="120" src="https://cdn.prod.website-files.com/68c3275ecef129c590f9e69f/6adf74651ddeb7aa8cde4b2d_IoTSF-Corporate-Membership-Badge.jpg" alt="IoT Security Foundation">
+   <img height="120" src="https://cdn.prod.website-files.com/68c3275ecef129c590f9e69f/6adf74654cf9a48cf990ed50_ioXt_logo2020_July-1.png" alt="ioXt">
+   <img height="80" src="https://cdn.prod.website-files.com/68c3275ecef129c590f9e69f/6adf746567e642ed1c1d5184_ieee-logo.png" alt="Institute of Electrical and Electronics Engineers">
+   <img height="80" src="https://cdn.prod.website-files.com/68c3275ecef129c590f9e69f/6adf74650bddc2a201e70934_KNXMemberCMYK.jpg" alt="KNX Member">
+   <img height="80" src="https://cdn.prod.website-files.com/68c3275ecef129c590f9e69f/6adf7465b6324cc3e6a5e93f_ONUG-logo.svg" alt="ONUG">
 </div>
